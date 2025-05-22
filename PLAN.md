@@ -16,7 +16,7 @@ Crea un archivo index.html con la estructura básica de un sitio web profesional
 
 Usa etiquetas semánticas. Agrega el enlace a Font Awesome vía CDN y un archivo style.css en la carpeta raíz. También enlaza un archivo script.js.
 
-Agrega un título del sitio: “Juan Pablo Ruiz - Ingeniero en Sistemas y Especialista en IA”.
+Agrega un título del sitio: “Juan Pablo Ruiz - Ingeniero en Sistemas y Estratega en IA”.
 ```
 
 ### Prompt 2 - Estilos generales y diseño responsive
