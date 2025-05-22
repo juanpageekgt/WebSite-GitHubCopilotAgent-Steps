@@ -10,7 +10,7 @@ Este archivo contiene los 20 pasos organizados para crear tu sitio web personal 
 
 ```plaintext
 Crea un archivo index.html con la estructura básica de un sitio web profesional. Incluye las siguientes secciones: 
-- Header con el logo y un navbar con enlaces a: "Inicio", "Servicios", "Blog", "Contacto".
+- Header con el logo el cuál se encuentra en la carpeta images en esta estructura de sitio web y un navbar con enlaces a: "Inicio", "Servicios", "Blog", "Contacto".
 - Main para el contenido.
 - Footer con redes sociales y copyright.
 
